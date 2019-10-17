@@ -1,0 +1,16 @@
+class PostList extends Component {
+  state = {
+    posts: [
+      {
+        id: 1,
+        author: {
+          name: 'Nayron Victor',
+          avatar: 'https://miro.medium.com/max/3202/1*PFHfany1h-8DK0RrzJZruw.png'
+        },
+        date: '17  10 2019',
+        content: '',
+        comments: [
+          {
+           
+  };
+}
